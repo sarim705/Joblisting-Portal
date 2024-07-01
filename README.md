@@ -2,24 +2,21 @@ Job Listing Portal Application
 
 A dynamic and responsive Job Portal Application built with React and Material-UI, designed to streamline the job search and posting processes. This application leverages Firebase for backend support, ensuring robust data management and real-time updates.
 
-Table of Contents
-
-Features
-Technologies Used
-Getting Started
-Installation
-Usage
-Contributing
-License
 
 Features
 
 User-Friendly Interface: Clean and intuitive UI using Material-UI, enhancing the user experience for both job seekers and employers.
+
 Job Posting and Management: Allows employers to post job listings with details such as job title, company name, location, and required skills.
+
 Custom Job Search: Advanced search capabilities allowing job seekers to filter jobs by type (Full-time, Part-time, Contract) and location (Remote, In-office).
+
 Skill Management: Dynamic skill addition/removal for job listings, ensuring precise job requirement specifications.
+
 Real-Time Data Handling: Firebase Firestore for real-time database management, providing instantaneous updates for job postings and searches.
+
 Dialog Management: Dialog components for posting jobs and viewing job details, enhancing interactive capabilities.
+
 Responsive Design: Fully responsive application, providing seamless experiences across various devices.
 
 Technologies Used
