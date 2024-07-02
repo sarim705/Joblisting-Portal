@@ -17,6 +17,10 @@ Real-Time Data Handling: Firebase Firestore for real-time database management, p
 
 Dialog Management: Dialog components for posting jobs and viewing job details, enhancing interactive capabilities.
 
+**Webpack Configuration: Utilizes Webpack for bundling JavaScript files and managing dependencies, improving the build process and performance.
+
+**HTML Plugin:Uses the HTML Webpack Plugin to generate HTML files dynamically, ensuring that the script and link tags are automatically injected and managed efficiently.
+ 
 Responsive Design: Fully responsive application, providing seamless experiences across various devices.
 
 Technologies Used
@@ -51,11 +55,13 @@ npm install
 Firebase Setup
 Create a Firebase project and set up Firestore.
 
-Usage
-Start the development server:
+Run the following command to build the project for production:
+npm run build
 
+Run the following command to start the development server:
 npm start
 Open http://localhost:3000 to view it in the browser.
+
 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
